@@ -4,7 +4,7 @@
 
 ## Once you've opened the application through the provided link below, you will see the layout is very straightforward. It is a simple 9AM-5PM schedule where, if you were to click in the gray area next to your chosen hour, you can type in it. Upon hitting save, this information is saved into the local storage and, if you are to refresh the page, the information is pulled from local storage and remains in the box.
 
-## To access this application, you can click the link provided() or gain access to it through my github.
+## To access this application, you can click the link provided(https://conquerershaki.github.io/Daily-Planner/) or gain access to it through my github.
 
 ![Application Screenshot](./images/screenshot.jpg)
 
